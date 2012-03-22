@@ -1,3 +1,3 @@
 <?php 
-echo "Test de conflit sans update" 
+echo "TEST de conflit" ;
 ?>
