@@ -1,3 +1,3 @@
 <?php 
-echo "TEST de conflit" ;
+echo "TEST de conflit - 27" ;
 ?>
